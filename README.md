@@ -1,2 +1,2 @@
-# deeplearning_dump
-A dump of my tests with deep learning and other connected material.
+# deeplearning_learning_material
+A collection of my tests with deep learning and other connected material.
